@@ -1,0 +1,8 @@
+2024-12-12 11:04:38,333 - FileInfo(name='debug_info', extension='log', is_directory=False, parent_directory='standard_libraries_python')
+2024-12-12 11:04:38,334 - FileInfo(name='directory_info', extension='log', is_directory=False, parent_directory='standard_libraries_python')
+2024-12-12 11:04:38,335 - FileInfo(name='example_1', extension='py', is_directory=False, parent_directory='standard_libraries_python')
+2024-12-12 11:04:38,335 - FileInfo(name='example_2', extension='py', is_directory=False, parent_directory='standard_libraries_python')
+2024-12-12 11:04:38,335 - FileInfo(name='example_3', extension='py', is_directory=False, parent_directory='standard_libraries_python')
+2024-12-12 11:04:38,336 - FileInfo(name='example_4', extension='py', is_directory=False, parent_directory='standard_libraries_python')
+2024-12-12 11:04:38,336 - FileInfo(name='example_5', extension='py', is_directory=False, parent_directory='standard_libraries_python')
+2024-12-12 11:04:38,337 - FileInfo(name='warnings_errors', extension='log', is_directory=False, parent_directory='standard_libraries_python')
